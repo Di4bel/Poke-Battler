@@ -27,8 +27,13 @@ git stash
 ## Änderungen Comitten
 
 git add (FILENAME oder *)
-git remove -> gestaged Dateien entfernen (gestaged = wurde mit git add durchgeführt) 
+
+git reset (FILENAME oder *)
+
+> -> gestaged Dateien entfernen (gestaged = wurde mit git add durchgeführt)
+> 
 > kann man mit git status anschauen
+
 git commit -m "MESSAGE"
 > -> Commit lokal auf dem Rechner
 git push
