@@ -16,7 +16,9 @@ git stash
 > git status
 > bei Änderungen:
 >> git stash
+>> 
 >> git pull
+>> 
 >> git stash pop
 >
 > ohne Änderungen:
