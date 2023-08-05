@@ -1,0 +1,26 @@
+{
+  "name": "pokebattler",
+  "version": "0.0.1",
+  "description": "a custom battle game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Di4bel/Poke-Battler.git"
+  },
+  "keywords": [
+    "game",
+    "private",
+    "usage",
+    "not commercial",
+    "learning-project"
+  ],
+  "author": "Project: \"Unknown\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Di4bel/Poke-Battler/issues"
+  },
+  "homepage": "https://github.com/Di4bel/Poke-Battler#readme"
+}
