@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/Di4bel/Poke-Battler/issues"
   },
-  "homepage": "https://github.com/Di4bel/Poke-Battler#readme"
+  "homepage": "https://github.com/Di4bel/Poke-Battler#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.1",
+    "mariadb": "^3.2.0"
+  }
 }
